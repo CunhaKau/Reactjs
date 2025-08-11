@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "name": "capa de chuva",
+      "price": "50.50",
+      "id": "5"
+    },
+    {
+      "name": "teclado",
+      "price": "110",
+      "id": "6"
+    },
+    {
+      "name": "cadeira",
+      "price": "200",
+      "id": "7"
+    },
+    {
+      "id": "b0cb",
+      "name": "mouse",
+      "price": "45"
+    },
+    {
+      "id": "4b4a",
+      "name": "monitor",
+      "price": "1200"
+    },
+    {
+      "id": "c1a3",
+      "name": "computador",
+      "price": "7000"
+    },
+    {
+      "id": "bdbd",
+      "name": "Mouse vermelho",
+      "price": "56"
+    },
+    {
+      "id": "8069",
+      "name": "Mouse azul",
+      "price": "56"
+    },
+    {
+      "id": "27b9",
+      "name": "Mouse azul",
+      "price": "56"
+    }
+  ]
+}
